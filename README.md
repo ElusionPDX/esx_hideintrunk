@@ -13,3 +13,6 @@ WIP
 - loop help notif
 - rotate ped 180°
 - more help texts
+- force people in
+- lock people in
+- mathrandom of getting away?
