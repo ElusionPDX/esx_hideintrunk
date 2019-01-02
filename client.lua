@@ -22,7 +22,7 @@ end)
 		    Citizen.Wait(5)
 
 
-		    local player = PlayerPedId()
+		    	player = PlayerPedId()
 			local plyCoords = GetEntityCoords(player, false)
 			local vehicle = VehicleInFront()
 	    
