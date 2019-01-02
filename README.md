@@ -1,9 +1,8 @@
 # esx_hideintrunk
-WIP
 
 ### BUGS ####
-- not working after reconnect (loop problem?)
-
+- sometimes not dettaching, you have to press combination few times
+- doesnt fit in every trunk, invisibility function is solution.-
 
 
 ### TO-DO ###
