@@ -1,8 +1,6 @@
 # esx_hideintrunk
 WIP
 
-WIP
-
 ### BUGS ####
 - not working after reconnect (loop problem?)
 
