@@ -65,8 +65,9 @@ end)
 		    					visible = false			
 		    				end   	
 		    			end
-					DrawText3D2(plyCoords.x, plyCoords.y, plyCoords.z + 1.0, '~r~Weird noises~s~ in trunk', 0.5)  
-			
+					-- WIP - client side only right now.
+					--DrawText3D2(plyCoords.x, plyCoords.y, plyCoords.z + 1.0, '~r~Weird noises~s~ in trunk', 0.5)  
+					
 				end  	
 	  	end
 	end)
