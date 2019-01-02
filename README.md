@@ -7,7 +7,7 @@ WIP
 
 
 ### TO-DO ###
-- ability to adjust
+- ability to adjust offset
 - disable invisibility again
 - server side for 3D text
 - loop help notif
@@ -16,3 +16,5 @@ WIP
 - force people in
 - lock people in
 - mathrandom of getting away?
+- create scripted camera
+- check how many people in (limit to one or more by vehicle category)
